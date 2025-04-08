@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 | <a href="https://github.com/hasmokan"><img align="center" src="https://git-stats-ashy.vercel.app/api?username=hasmokan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hasmokan"><img align="center" src="https://git-stats-ashy.vercel.app.vercel.app/api/top-langs/?username=hasmokan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://git-stats-ashy.vercel.app.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
