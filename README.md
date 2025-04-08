@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://git-stats-ashy.vercel.app/api/top-langs/?username=hasmokan&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmokan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasmokan&count_private=true)
