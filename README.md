@@ -18,22 +18,19 @@ I'm a passionate developer who loves building things with code. I specialize in 
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmokan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmokan&layout=compact&langs_count=7&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmokan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmokan&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ## 🔥 Streak Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmokan&theme=vue" alt="hasmokan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmokan&theme=default" alt="hasmokan" />
 </div>
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasmokan&theme=vue&no-frame=false&no-bg=true&margin-w=4" alt="hasmokan" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasmokan&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="hasmokan" />
 </div>
 
 <!--
