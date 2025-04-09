@@ -33,11 +33,12 @@ I'm a passionate developer who loves building things with code. I specialize in 
   <img src="https://github-profile-trophy.vercel.app/?username=hasmokan&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="hasmokan" />
 </div>
 
-<!--
+
 ## 📫 How to reach me
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: [Your contact info]
+- 📫 How to reach me: [`📧 hasmodream@gmail.com`](mailto:hasmodream@gmail.com)
 
+<!--
 ## ⚡ Fun fact
 - ✨ I love coding and learning new technologies
 - 🌱 I'm currently learning [Your current learning]
