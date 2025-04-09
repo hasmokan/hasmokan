@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 | <img align="center" src="https://git-stats-ashy.vercel.app/api?username=hasmokan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /> | <img align="center" src="https://git-stats-git-master-hasmokans-projects.vercel.app/api/top-langs/?username=hasmokan&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
+
+| <a href="https://github.com/hasmokan"><img align="center" src="https://git-stats-git-master-hasmokans-projects.vercel.app/api?username=hasmokan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&cache_seconds=86400" alt="hasmokan's github stats" /></a> | <a href="https://github.com/hasmokan"><img align="center" src="https://git-stats-git-master-hasmokans-projects.vercel.app/api/top-langs/?username=hasmokan&layout=compact&theme=buefy&hide_border=true&count_private=true&cache_seconds=86400" /></a> |
 | ------------- | ------------- |
