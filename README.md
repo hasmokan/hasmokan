@@ -5,6 +5,7 @@ I'm a passionate developer who loves building things with code. I specialize in 
 
 ## 🛠️ Tech Stack
 
+<div style="display:inline-block">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="20" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="TypeScript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="React" />
@@ -14,6 +15,7 @@ I'm a passionate developer who loves building things with code. I specialize in 
   <img src="https://cdn.simpleicons.org/rust/000000" height="20" alt="Rust" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="20" alt="NestJS" />
+</div>
 
 ## 📊 GitHub Stats
 
