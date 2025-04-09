@@ -8,11 +8,12 @@ I'm a passionate developer who loves building things with code. I specialize in 
 <div style="display:inline-block">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="Rust" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/vue.js/4FC08D" height="40" alt="Vue" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="Rust" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS" />
 </div>
