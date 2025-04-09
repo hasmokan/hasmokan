@@ -5,16 +5,26 @@ I'm a passionate developer who loves building things with code. I specialize in 
 
 ## 🛠️ Tech Stack
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="vercel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vercel/vercel.png"></code>
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="nestjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+- JavaScript
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="20" alt="JavaScript" />
+- TypeScript
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" alt="TypeScript" />
+- React
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="React" />
+- Next.js
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="20" alt="Next.js" />
+- Vue.js
+  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" height="20" alt="Vue" />
+- Vercel
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="20" alt="Vercel" />
+- Rust
+  <img src="https://cdn.simpleicons.org/rust/000000" height="20" alt="Rust" />
+- Node.js
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="Node.js" />
+- NestJS
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="20" alt="NestJS" />
+- GraphQL
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="20" alt="GraphQL" />
 
 ## 📊 GitHub Stats
 
